@@ -1,0 +1,14 @@
+divisores = dividers
+multiplos = multiples
+listavertices = the first and last number of a list
+mmc = minimum common multiple
+mdc = maximum common divider
+potencia = exp/exponential
+subtracao = subtraction
+divisao = division
+reverso = reverse of a list
+elementor = returns if an element belongs in an ordered, from lowest number to highest number, list. If the list is not ordered like that, the calculator can return a false result.
+maximo = highest number of a list
+somaacu = accumulated sum
+soma = sum
+multiplicacao = product/multiplication
