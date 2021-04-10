@@ -8,7 +8,7 @@ listaOperacao = [] # Set the variable's initial value
 
 def drawer(resultado): # Draw the result into the window
     drawingres.clear()
-    drawingres.image(0, 0, "C:/Users/gamer/Desktop/a'mu v1.5 tools/why not.png")
+    drawingres.image(0, 0, ".\\why not.png")
     drawingres.text(20, 20, str(resultado), font="Cascadia Code", color="#A0A0A0", size=25)
 
 def numberAppend(): # Append a number to the calculation list
