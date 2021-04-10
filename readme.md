@@ -1,9 +1,10 @@
 How to run the file for the first time:
-1. Download all files (readme is optional)
+1. Download all files (readme and translations is optional)
 2. Run setup.bat
 3. Run run.bat
 
 For the next usages of the program, just run run.bat.
+English users can read translations.txt to know what the functions mean.
 
 a'mu changelog
 
