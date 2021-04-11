@@ -2,6 +2,7 @@ How to run the file for the first time:
 1. Download all files (readme and translations is optional)
 2. Run setup.bat
 3. Run run.bat
+Also, you may need to install PIP and guizero.
 
 For the next usages of the program, just run run.bat.
 English users can read translations.txt to know what the functions mean.
